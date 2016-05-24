@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\bin\Debug\Cifra Cesar.exe.config
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Cesar.csprojResolveAssemblyReference.cache
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Cesar.csproj.GenerateResource.Cache
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\bin\Debug\Cifra Cesar.exe
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\bin\Debug\Cifra Cesar.pdb
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Cesar.exe
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Cesar.pdb
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\bin\Debug\Cifra Caesar.exe.config
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\cifracaesar.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\WindowsFormsApplication1.frmCifra.resources
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Caesar.exe
+C:\Users\rafae\OneDrive\Mestrado\Sistemas de Informação\Cifra de Cesar\Cifra Cesar\Cifra Cesar\obj\Debug\Cifra Caesar.pdb
